@@ -9,7 +9,7 @@ Fragmented operational expense logs and manual tracking bottlenecks left the man
 
 ## 📊 Project Files & Documentation
 * 📎 **[Download Live Excel Worksheet - PROJECT SUMMARY.xlsx](PROJECT%20SUMMARY.xlsx)**
-* 📄 **[Open & View Project Presentation Deck (PDF)](PROJECT%201%20%28SUMMARY%29.pdf)**
+* 📄 **[Open & View Project Presentation Deck (PDF)](FINANCIAL%201%20%28TRACKING%29.pdf)**
 
 ## 🎯 Quantifiable Business Impact
 * Deployed a "Worker Claim Leaderboard" and historical trend modules, giving leadership real-time visibility to mitigate budget leaks and audit anomalous vendor distributions.
