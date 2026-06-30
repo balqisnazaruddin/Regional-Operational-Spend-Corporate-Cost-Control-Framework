@@ -8,8 +8,7 @@ Fragmented operational expense logs and manual tracking bottlenecks left the man
 * **The Fix:** Engineered a dynamic, interactive Excel tracking dashboard to centralize, filter, and audit cross-category regional expenses.
 
 ## 📈 Final Dashboard Interface
-![Excel Dashboard Preview](YOUR_UPLOADED_SCREENSHOT_NAME.png) 
-*(Note: Replace "YOUR_UPLOADED_SCREENSHOT_NAME.png" with the exact name of the image file you uploaded in Step 1 so it displays on the screen!)*
+![Excel Dashboard Preview](PROJECT_SUMMARY.png)
 
 ## 🎯 Quantifiable Business Impact
 * Deployed a "Worker Claim Leaderboard" and historical trend modules, giving leadership real-time visibility to mitigate budget leaks and audit anomalous vendor distributions.[cite: 7]
